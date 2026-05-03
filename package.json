@@ -1,0 +1,27 @@
+{
+  "name": "guia-2",
+  "version": "1.0.0",
+  
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "lint:fix": "eslint src/**/*.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlizbethjaico/guia-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devlizbethjaico/guia-2/issues"
+  },
+  "homepage": "https://github.com/devlizbethjaico/guia-2#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.3.0"
+  }
+}
