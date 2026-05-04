@@ -1,6 +1,6 @@
 // Módulo de gestión de productos 
 
-//creando un arreglo de variables
+//creando un arreglo de variables.
 
 //cada producto es un objeto
 var products = [
