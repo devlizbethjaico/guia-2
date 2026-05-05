@@ -1,6 +1,6 @@
 // Módulo de gestión de productos 
 
-//creando un arreglo de variables.
+//creando un arreglo de variables..
 
 //cada producto es un objeto
 const products = [
@@ -10,7 +10,7 @@ const products = [
    { id: 4, name: 'Monitor LG',price: undefined },
 
 ]
-//console.log(products)
+console.log(products)
 // Busca un producto por ID
 function getProductById(id) {
 
